@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+
+.homepage_bg {
+  background: url("../src/assets/Images/bghome.svg");
+  /* background-size: contain; */
+}
+
+
+/* For conditional coloring of icons in dashboard sidebar */
+.active-icon {
+  fill: #668ee4 !important;
+  color:  #668ee4  !important;
+}
+
+.inactive-icon {
+  fill: #838894;
+  color: #838894;
+}
+
