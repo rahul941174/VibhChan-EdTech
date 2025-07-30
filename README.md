@@ -1,31 +1,51 @@
-# React & Tailwind CSS Starter Pack
+VibhChan EdTech
+A full-stack EdTech platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and styled using Tailwind CSS.
+Frontend is deployed on Vercel, and backend is deployed on Render.
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+🚀 Tech Stack
+Frontend: React, Tailwind CSS
 
-## Usage
+Backend: Node.js, Express.js
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+Database: MongoDB (Cloud)
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+Cloud Media: Cloudinary
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
+Deployment:
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
+Frontend: Vercel
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+Backend: Render
 
-## Contributing
+🌐 Live URLs
+Frontend: https://vibh-chan-ed-techh.vercel.app
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+Backend: <your-render-backend-url>
+
+📁 Features
+User Authentication (Sign up, Login, Cookies-based auth)
+
+Course Creation and Enrollment
+
+Payment Gateway Integration
+
+Contact/Support Form
+
+Profile Management
+
+Instructor Routes for Course Uploads
+
+Secure API Routes with JWT
+
+Cloudinary for Image/File Uploads
+
+Clone the Repository
+    git clone https://github.com/rahul941174/VibhChan-EdTech.git
+    cd VibhChan-EdTech
+
+Deployment
+Frontend deployed to Vercel
+
+Backend deployed to Render
+
+Make sure to set environment variables in both platforms for smooth deployment.
