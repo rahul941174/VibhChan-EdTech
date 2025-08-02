@@ -2,7 +2,7 @@ VibhChan EdTech
 A full-stack EdTech platform built with the MERN stack (MongoDB, Express.js, React, Node.js) and styled using Tailwind CSS.
 Frontend is deployed on Vercel, and backend is deployed on Render.
 
-🌐 Live URLs
+🌐 Live URL
 
 Frontend: https://vibh-chan-ed-techh.vercel.app
 
