@@ -3,8 +3,10 @@ A full-stack EdTech platform built with the MERN stack (MongoDB, Express.js, Rea
 Frontend is deployed on Vercel, and backend is deployed on Render.
 
 🌐 Live URLs
+
 Frontend: https://vibh-chan-ed-techh.vercel.app
-Backend: <your-render-backend-url>
+
+Backend: https://vibhchan-edtech.onrender.com
 
 
 <img width="1356" height="611" alt="edtech1" src="https://github.com/user-attachments/assets/48563263-9217-474d-b816-36f11686e116" />
